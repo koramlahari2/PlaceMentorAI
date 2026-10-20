@@ -1,0 +1,21 @@
+query,category,expected_faq_id,expected_match
+"How do I improve my pace on aptitude tests while still answering accurately?",Aptitude & Reasoning,APT003,true
+"What is the combined work rate when two people tackle one task together?",Aptitude & Reasoning,APT008,true
+"How does breadth-first search find a shortest path in an unweighted graph?",Coding & DSA,COD010,true
+"How can binary search help me quickly find an item in a sorted list?",Coding & DSA,COD012,true
+"Which SQL join returns every row from one table and matching rows from the other?",Technical Interviews,TEC004,true
+"How can I discuss a mistake and explain what I learned from it?",HR Interviews,HR006,true
+"What should I write about my app on a CV, including the parts I implemented?",Resume & LinkedIn,RES005,true
+"How can I confirm that I meet the academic criteria for a campus role?",Placement Process,PRO002,true
+"I am new to progrmming, how shoud I start preparing for coding interviews?",Coding & DSA,COD001,true
+"How can I write a good resumé project explenation?",Resume & LinkedIn,RES005,true
+"How do I prepar for aptitute tests?",Aptitude & Reasoning,APT001,true
+"How do I make a sourdough starter from scratch?",,,false
+"Can you suggest a train route from Paris to Rome?",,,false
+"What are the steps to fix a dripping kitchen faucet?",,,false
+"What do I need to prepare for an interview?",HR Interviews,HR016,true
+"How can I get ready for a job interview?",HR Interviews,HR016,true
+"What should I review and bring before an interview?",HR Interviews,HR016,true
+"How should I prepare the day before a job interview?",HR Interviews,HR016,true
+"Which parts of the job and team are worth asking about during an interview?",HR Interviews,HR014,true
+"What are good questions to ask a hiring manager at the end of an interview?",HR Interviews,HR014,true
